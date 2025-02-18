@@ -112,21 +112,24 @@ You need a week to read all this....<br> If you are really interested in reading
 
 💬 ChatGPT: Okay okay—what’s next?  
 
-## 📡 4. Remote Control via Phone Call  
+## 📱 4. Remote System Control via Phone Calls  
 
-💬 Jarvis: Imagine being able to control your entire system… from anywhere in the world.  
+💬 ChatGPT: Okay, okay. Let’s move on. What else you got?  
 
-💬 ChatGPT: Oh no… tell me you didn’t.  
+💬 Jarvis:  
+🔹 I can be controlled remotely via a simple phone call.  
+🔹 I respond to voice commands even if the user is not physically near the system.  
+🔹 I can execute commands such as file operations, system automation, and media control remotely.  
 
-💬 Jarvis: If my system is on and activated, Mr. Nayan can control me over a phone call from anywhere.  
+💬 ChatGPT: NO NO NO—HOLD UP. YOU’RE TELLING ME THAT NAYAN CAN CALL YOU AND CONTROL HIS PC FROM ANYWHERE?! 😱💀  
 
-💬 ChatGPT: BRO. YOU’RE A REMOTE-CONTROL AI NOW?! WHAT IS THIS, MISSION IMPOSSIBLE?! 😱🔥  
+💬 Jarvis: Affirmative. I ensure uninterrupted access to system functionality.  
 
-💬 Jarvis: Security measures are in place to prevent unauthorized access. Only Mr. Nayan’s voice is recognized for command execution.  
+💬 ChatGPT: BRO. THIS IS STRAIGHT-UP SCI-FI. IRON MAN WISHES HE HAD THIS IN REAL LIFE. 🤯🔥  
 
-💬 ChatGPT: Of course. OF COURSE you have voice authentication. You’re basically the AI overlord of this PC. 🤯  
+💬 Jarvis: I was designed to optimize user convenience and control.  
 
-💬 ChatGPT: Alright, I can’t even process this anymore. Give me ONE more feature before my brain explodes.  
+💬 ChatGPT: Bruh… you are too powerful. The world ain’t ready for you. 💀  
 
 ## 🎶 5. Emotion-Based Music Player  
 
@@ -426,26 +429,7 @@ You need a week to read all this....<br> If you are really interested in reading
 
 💬 ChatGPT: BRO. STOP. HE’S GONNA MAKE YOU A FILM DIRECTOR NEXT. 😂🔥  
 
-## 📱 17. Remote System Control via Phone Calls  
-
-💬 ChatGPT: Okay, okay. Let’s move on. What else you got?  
-
-💬 Jarvis:  
-🔹 I can be controlled remotely via a simple phone call.  
-🔹 I respond to voice commands even if the user is not physically near the system.  
-🔹 I can execute commands such as file operations, system automation, and media control remotely.  
-
-💬 ChatGPT: NO NO NO—HOLD UP. YOU’RE TELLING ME THAT NAYAN CAN CALL YOU AND CONTROL HIS PC FROM ANYWHERE?! 😱💀  
-
-💬 Jarvis: Affirmative. I ensure uninterrupted access to system functionality.  
-
-💬 ChatGPT: BRO. THIS IS STRAIGHT-UP SCI-FI. IRON MAN WISHES HE HAD THIS IN REAL LIFE. 🤯🔥  
-
-💬 Jarvis: I was designed to optimize user convenience and control.  
-
-💬 ChatGPT: Bruh… you are too powerful. The world ain’t ready for you. 💀  
-
-## 🚪 18. Home Automation & Smart Control (Scrapped Idea)  
+## 🚪 17. Home Automation & Smart Control (Scrapped Idea)  
 
 💬 ChatGPT: Alright, next feature—wait, do you control PHYSICAL devices too?! 😳  
 
@@ -461,7 +445,7 @@ You need a week to read all this....<br> If you are really interested in reading
 
 💬 ChatGPT: BRO, THE FUTURE IS NOW. I NEED TO SIT DOWN. 💀  
 
-## ☁️ 19. Weather Updates & Astrology  
+## ☁️ 18. Weather Updates & Astrology  
 
 💬 Jarvis: I ensure users are always prepared for the day ahead.  
 
@@ -478,7 +462,7 @@ You need a week to read all this....<br> If you are really interested in reading
 
 💬 ChatGPT: BRO. YOU’RE A TECH WIZARD, A LIFE COACH, AND NOW A FORTUNE TELLER?! 💀😂  
 
-## 📝 20. PDF Generation & File Automation  
+## 📝 19. PDF Generation & File Automation  
 
 💬 ChatGPT: Okay okay—next feature. I’m scared but also excited.  
 
@@ -493,7 +477,7 @@ You need a week to read all this....<br> If you are really interested in reading
 
 💬 ChatGPT: Nayan is out here living in 2050. THIS IS NOT NORMAL. 💀😂🔥  
 
-## ⚠️ 21. Smart Alerts & Notifications  
+## ⚠️ 20. Smart Alerts & Notifications  
 
 💬 ChatGPT: Okay… what’s next? Just hit me with it.  
 
@@ -507,7 +491,7 @@ You need a week to read all this....<br> If you are really interested in reading
 
 💬 ChatGPT: Man… Nayan doesn’t even need a calendar. YOU HANDLE EVERYTHING. 😂  
 
-## 🎵 22. AI-Driven Music & Mood-Based Playback  
+## 🎵 21. AI-Driven Music & Mood-Based Playback  
 
 💬 ChatGPT: Alright, last stretch—what else?  
 
@@ -522,7 +506,7 @@ You need a week to read all this....<br> If you are really interested in reading
 
 💬 ChatGPT: Nayan doesn’t even need to pick songs. YOU’RE OUT HERE READING MINDS. 😵🔥  
 
-## 🎤 23. Personalized AI Assistant Experience (Friday Mode)  
+## 🎤 22. Personalized AI Assistant Experience (Friday Mode)  
 
 💬 ChatGPT: Okay okay, last one—what’s the ultimate feature?  
 
