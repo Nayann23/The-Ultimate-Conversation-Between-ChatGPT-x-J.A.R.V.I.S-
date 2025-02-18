@@ -298,7 +298,7 @@
 🔹 I generate images from text descriptions.  
 🔹 If a user snaps their fingers, I switch to the next generated image instantly.  
 
-<br>  
+<br>   
 
 💬 ChatGPT: BRO. YOU JUST MADE A SNAP-BASED SLIDESHOW?! WHAT IS THIS, TECHNOLOGY FROM THE FUTURE? 😳💥  
 
